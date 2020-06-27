@@ -25,8 +25,9 @@ struct MusicView: View {
     
     var body: some View {
         ZStack(alignment: .bottom) {
-            Color.white
+            MainView()
                 .edgesIgnoringSafeArea(.all)
+                .frame(width: screenBounds.width, height: screenBounds.height)
                 .cornerRadius(cornerRadius)
                 .scaleEffect(isExpanded ? 0.85 : 1)
             

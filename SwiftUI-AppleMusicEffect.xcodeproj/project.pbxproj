@@ -11,6 +11,8 @@
 		7555A87A24A3836100C39A86 /* MusicView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555A87824A3836100C39A86 /* MusicView.swift */; };
 		7555A87C24A387C300C39A86 /* CornerShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555A87B24A387C300C39A86 /* CornerShape.swift */; };
 		7555A87D24A387C300C39A86 /* CornerShape.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555A87B24A387C300C39A86 /* CornerShape.swift */; };
+		7555A87F24A4D56100C39A86 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555A87E24A4D56100C39A86 /* MainView.swift */; };
+		7555A88024A4D56100C39A86 /* MainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7555A87E24A4D56100C39A86 /* MainView.swift */; };
 		75E90B5024A349100086901A /* SwiftUI_AppleMusicEffectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E90B3D24A3490E0086901A /* SwiftUI_AppleMusicEffectApp.swift */; };
 		75E90B5124A349100086901A /* SwiftUI_AppleMusicEffectApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E90B3D24A3490E0086901A /* SwiftUI_AppleMusicEffectApp.swift */; };
 		75E90B5224A349100086901A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 75E90B3E24A3490E0086901A /* ContentView.swift */; };
@@ -22,6 +24,7 @@
 /* Begin PBXFileReference section */
 		7555A87824A3836100C39A86 /* MusicView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MusicView.swift; sourceTree = "<group>"; };
 		7555A87B24A387C300C39A86 /* CornerShape.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CornerShape.swift; sourceTree = "<group>"; };
+		7555A87E24A4D56100C39A86 /* MainView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainView.swift; sourceTree = "<group>"; };
 		75E90B3D24A3490E0086901A /* SwiftUI_AppleMusicEffectApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftUI_AppleMusicEffectApp.swift; sourceTree = "<group>"; };
 		75E90B3E24A3490E0086901A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		75E90B3F24A349100086901A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -66,6 +69,7 @@
 				75E90B3D24A3490E0086901A /* SwiftUI_AppleMusicEffectApp.swift */,
 				75E90B3E24A3490E0086901A /* ContentView.swift */,
 				7555A87824A3836100C39A86 /* MusicView.swift */,
+				7555A87E24A4D56100C39A86 /* MainView.swift */,
 				7555A87B24A387C300C39A86 /* CornerShape.swift */,
 				75E90B3F24A349100086901A /* Assets.xcassets */,
 			);
@@ -198,6 +202,7 @@
 				75E90B5224A349100086901A /* ContentView.swift in Sources */,
 				7555A87924A3836100C39A86 /* MusicView.swift in Sources */,
 				7555A87C24A387C300C39A86 /* CornerShape.swift in Sources */,
+				7555A87F24A4D56100C39A86 /* MainView.swift in Sources */,
 				75E90B5024A349100086901A /* SwiftUI_AppleMusicEffectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -209,6 +214,7 @@
 				75E90B5324A349100086901A /* ContentView.swift in Sources */,
 				7555A87A24A3836100C39A86 /* MusicView.swift in Sources */,
 				7555A87D24A387C300C39A86 /* CornerShape.swift in Sources */,
+				7555A88024A4D56100C39A86 /* MainView.swift in Sources */,
 				75E90B5124A349100086901A /* SwiftUI_AppleMusicEffectApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
